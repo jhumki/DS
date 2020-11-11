@@ -11,7 +11,7 @@ selling price = float(input(" Please Enter the selling price: "))
 
  
 
-if(actual_cost > sale_amount):
+if(cost price > selling price):
 
     amount = cost price - selling price
 
